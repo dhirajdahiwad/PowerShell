@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -Command "D:\dhiraj\PowerShell\HelloWord.ps1"
